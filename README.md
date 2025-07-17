@@ -1,11 +1,9 @@
 <!-- GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Rahul Mall</h1>
-<h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul1038402&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1038402" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Hii!&fontColor=fefaf6&height=200&section=header&fontSize=80&textBg=false"/>
 </p>
+<h1 align="center"> I'm Zuhaib</h1>
+<h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
 
 ---
 
@@ -17,8 +15,7 @@
 
   - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
   - 🌱 Learning **AI/ML and Data Structures**
-  - 🧑‍💻 [View My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
-  - 📫 Reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
+  - 📫 Reach me: [khanzuhaib966@gmail.com](mailto:khanzuhaib966@gmail.com)
 
     </td>
     <td valign="top" width="50%">
@@ -60,15 +57,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul1038402&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mzuhaibkhan&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1038402&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mzuhaibkhan&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1038402&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzuhaibkhan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Animated Divider -->
@@ -78,13 +75,20 @@
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
+<p align="left">
   <img
-    src="https://leetcard.jacoblin.cool/rahul1038402?theme=dark&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&ext=heatmap"
     width="60%"
     height="60%"
     alt="LeetCode Stats Heatmap"
 />
+</p>
+<p align="right">
+  <img
+    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&ext=contest"
+    width="60%"
+    alt="LeetCode Contest Stats"
+  />
 </p>
 
 <!-- Animated Divider -->
@@ -95,10 +99,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-malll-85989327b/">
+  <a href="https://www.linkedin.com/in/m-zuhaib-kh/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ig__rahul70/">
+  <a href="https://www.instagram.com/_._zuhaib_._/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"/>
   </a>
 </p>
