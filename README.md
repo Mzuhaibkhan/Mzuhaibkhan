@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Hii!&fontColor=fefaf6&height=200&section=header&fontSize=80&textBg=false"/>
 </p>
-<h1 style="color:#3AF8DA;font-size: 80px; font-family: 'Trebuchet'; text-align: center;" align="center">I'm Zuhaib</h1>
-<h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
+<h1 style="color:#3AF8DA;font-size: 100px; font-family: 'Trebuchet'; text-align: center;" align="center">I'm Zuhaib</h1>
+<h3 style="font-size:80px;"align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
 
 ---
 
