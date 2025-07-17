@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Hii!&fontColor=fefaf6&height=200&section=header&fontSize=80&textBg=false"/>
 </p>
-<h1 align="center"> I'm Zuhaib</h1>
+<h1 style="color:#3AF8DA;font-size: 80px; font-family: 'Trebuchet'; text-align: center;">I'm Zuhaib</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
 
 ---
@@ -17,10 +17,6 @@
   - 🌱 Learning **AI/ML and Data Structures**
   - 📫 Reach me: [khanzuhaib966@gmail.com](mailto:khanzuhaib966@gmail.com)
 
-    </td>
-    <td valign="top" width="50%">
-      <img src="assets/animated.gif" alt="GIF" width="100%" />
-    </td>
   </tr>
 </table>
 
@@ -29,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-### 🛠️ Languages & Tools
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">### 🛠️ Languages & Tools</h2>
 
 <!-- Frontend -->
 <p>
@@ -54,7 +50,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-### 📈 GitHub Stats
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">### 📈 GitHub Stats<h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mzuhaibkhan&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub stats" />
@@ -73,16 +69,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 style="font-size:30px;"align="left">## 🧠 LeetCode Stats<h2>
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">## 🧠 LeetCode Stats<h2>
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&ext=contest"
+    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&font=Oxygen&ext=contest"
     width="45%"
     alt="LeetCode Contest Rating"
   />
   <img
-    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&font=Oxygen&ext=heatmap"
     width="45%"
     alt="LeetCode Stats Heatmap"
   />
@@ -92,7 +88,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-### 🌐 Connect with Me
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">### 🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-zuhaib-kh/">
