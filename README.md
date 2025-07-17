@@ -75,15 +75,13 @@
 
 ## 🧠 LeetCode Stats
 
-<p align="left">
+<p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&ext=heatmap&ext=contest"
     width="60%"
     height="60%"
     alt="LeetCode Stats Heatmap"
 />
-</p>
-<p align="right">
   <img
     src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&ext=contest"
     width="60%"
