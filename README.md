@@ -53,15 +53,15 @@
 <h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">### 📈 GitHub Stats<h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mzuhaibkhan&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mzuhaibkhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&cache_bust=1" alt="Zuhaib's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mzuhaibkhan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mzuhaibkhan&theme=midnight-purple&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzuhaibkhan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzuhaibkhan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&cache_bust=1" alt="Top Languages" />
 </p>
 
 <!-- Animated Divider -->
