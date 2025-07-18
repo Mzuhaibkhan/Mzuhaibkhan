@@ -4,7 +4,7 @@
 </p>
 <h1 style="color:#3AF8DA;font-size: 100px; font-family: 'Trebuchet'; text-align: center;" align="center" size="100px">I'm Zuhaib</h1>
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Raleway&size=26&letterSpacing=3px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
+  src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&letterSpacing=6px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&duration=6000&lines=Frontend+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
   alt="Typing Animation"
 />
 
@@ -15,13 +15,13 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       
-  ###🧠 About Me
+  🧠 About Me<br><br>
 
-  - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
-  - 🌱 Learning **AI/ML and Data Structures**
-  - 📫 Reach me: [khanzuhaib966@gmail.com](mailto:khanzuhaib966@gmail.com)
+  - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**<br>
+  - 🌱 Learning **AI/ML and Data Structures**<br>
+  - 📫 Reach me: [khanzuhaib966@gmail.com](mailto:khanzuhaib966@gmail.com)<br>
 
   </tr>
 </table>
