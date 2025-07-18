@@ -9,10 +9,9 @@
 />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-57-cyan" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mzuhaibkhan&label=Profile+Visits&color=00C2CB&style=for-the-badge" alt="Profile Views" />
 </p>
----
-
+<br>
 <table width="100%">
   <tr>
     <td valign="top" width="100%">
