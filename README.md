@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Hii!&fontColor=fefaf6&height=200&section=header&fontSize=80&textBg=false"/>
 </p>
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Roboto&size=60&letterSpacing=6px&pause=3000&color=E0E3E8&center=true&vCenter=true&weight=600&width=1000&duration=2000&repeat=false&lines=I'm  Zuhaib&height=65" 
+  src="https://readme-typing-svg.demolab.com?font=Roboto&size=60&letterSpacing=6px&pause=3000&color=E0E3E8&center=true&vCenter=true&weight=600&width=1000&duration=2000&repeat=false&lines=I'm+Zuhaib&height=65" 
   alt="Typing Animation"
 />
 <img 
