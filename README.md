@@ -3,15 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Hii!&fontColor=fefaf6&height=200&section=header&fontSize=80&textBg=false"/>
 </p>
 <h1 style="color:#3AF8DA;font-size: 100px; font-family: 'Trebuchet'; text-align: center;" align="center" size="100px">I'm Zuhaib</h1>
-<h3 style="font-size:80px;"align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Raleway&size=26&letterSpacing=3px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
+  alt="Typing Animation"
+/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-57-cyan" alt="Profile Views" />
+</p>
 ---
 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
       
-  ### 🧠 About Me
+  ###🧠 About Me
 
   - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
   - 🌱 Learning **AI/ML and Data Structures**
@@ -25,7 +31,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">### 🛠️ Languages & Tools</h2>
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">🛠️ Languages & Tools</h2>
 
 <!-- Frontend -->
 <p>
@@ -50,7 +56,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">### 📈 GitHub Stats<h2>
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left"> 📈 GitHub Stats<h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mzuhaibkhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&cache_bust=1" alt="Zuhaib's GitHub stats" />
@@ -69,7 +75,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">## 🧠 LeetCode Stats<h2>
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left"> 🧠 LeetCode Stats<h2>
 
 <p align="center">
   <img
