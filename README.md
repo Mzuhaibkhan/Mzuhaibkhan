@@ -2,9 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Hii!&fontColor=fefaf6&height=200&section=header&fontSize=80&textBg=false"/>
 </p>
-<h1 style="color:#3AF8DA;font-size: 100px; font-family: 'Trebuchet'; text-align: center;" align="center" size="100px">I'm Zuhaib</h1>
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&letterSpacing=6px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&duration=6000&lines=Frontend+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
+  src="https://readme-typing-svg.demolab.com?font=Roboto&size=60&letterSpacing=6px&pause=3000&color=E0E3E8&center=true&vCenter=true&weight=600&width=1000&duration=2000&repeat=false&lines=I'm  Zuhaib&height=65" 
+  alt="Typing Animation"
+/>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&duration=6000&lines=Frontend+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
   alt="Typing Animation"
 />
 
@@ -14,9 +17,7 @@
 <br>
 <table width="100%">
   <tr>
-    <td valign="top" width="100%">
-      
-  🧠 About Me<br><br>
+  🧠 About Me<br>
 
   - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**<br>
   - 🌱 Learning **AI/ML and Data Structures**<br>
@@ -92,14 +93,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
-<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">### 🌐 Connect with Me</h2>
+<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left"> Connect With Me<h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-zuhaib-kh/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"/>
+    <img height="50"  src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="https://www.instagram.com/_._zuhaib_._/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"/>
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </p>
