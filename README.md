@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Hii!&fontColor=fefaf6&height=200&section=header&fontSize=80&textBg=false"/>
 </p>
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Roboto&size=60&letterSpacing=6px&pause=3000&color=E0E3E8&center=true&vCenter=true&weight=600&width=1000&duration=5500&repeat=true&lines=I'm+Zuhaib&height=65" 
+  src="https://readme-typing-svg.demolab.com?font=Roboto&size=60&letterSpacing=6px&pause=3000&color=E0E3E8&center=true&vCenter=true&weight=600&width=1000&duration=4500&repeat=true&lines=I'm+Zuhaib&height=65" 
   alt="Typing Animation"
 />
 <img 
@@ -99,7 +99,7 @@
   <a href="https://www.linkedin.com/in/m-zuhaib-kh/">
     <img height="50"  src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="https://www.instagram.com/_._zuhaib_._/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <a href="https://www.chess.com/member/zuhaib-kh">
+    <img height="50" src="./assets/phpQcwe5E.svg"/>
   </a>
 </p>
