@@ -31,7 +31,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left">🛠️ Languages & Tools</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=03E3B3&center=true&vCenter=true&width=1000&duration=6000&lines=%7C+Languages+and+Tools+%7C&height=40" alt="Typing Animation" />
 
 <!-- Frontend -->
 <p>
@@ -55,7 +55,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&size=20&letterSpacing=6px&pause=3000&color=E0E3E8&center=true&vCenter=true&width=1000&duration=6000&lines=GitHub+Stats+%7C&height=40" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=03E3B3&center=true&vCenter=true&width=1000&duration=6000&lines=%7c+GitHub+Stats+%7C&height=40" alt="Typing Animation" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mzuhaibkhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&cache_bust=1" alt="Zuhaib's GitHub stats" />
@@ -74,7 +74,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left"> 🧠 LeetCode Stats<h2>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=03E3B3&center=true&vCenter=true&width=1000&duration=6000&lines=%7C+LeetCode+Stats+%7C&height=40" alt="Typing Animation" />
 
 <p align="center">
   <img
@@ -92,7 +92,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-<h2 style="color:#FAEBD7;font-size:30px;font-family:'Georgia',monospace;"align="left"> Connect With Me<h2>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=03E3B3&center=true&vCenter=true&width=1000&duration=6000&lines=%7C+Connect+With+Me+%7C&height=40" alt="Typing Animation" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-zuhaib-kh/">
