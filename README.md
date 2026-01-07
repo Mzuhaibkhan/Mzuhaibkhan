@@ -78,12 +78,12 @@
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&font=Oxygen&ext=contest"
+    src="https://leetcard.jacoblin.cool/m_zuhaib-kh?theme=dark&font=Oxygen&ext=contest"
     width="45%"
     alt="LeetCode Contest Rating"
   />
   <img
-    src="https://leetcard.jacoblin.cool/_zuhaib-kh?theme=dark&font=Oxygen&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/m_zuhaib-kh?theme=dark&font=Oxygen&ext=heatmap"
     width="45%"
     alt="LeetCode Stats Heatmap"
   />
