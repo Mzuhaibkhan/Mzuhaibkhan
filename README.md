@@ -95,7 +95,7 @@
 
 <p align="Center">
   <img
-    src="https://codeforces-stats-vlx.vercel.app/api/graph?username={zuhaib_k}&theme={dark}"
+    src="https://codeforces-stats-vlx.vercel.app/api/graph?username=zuhaib_k&theme=dark"
     width="45%"
     alt="CodeForces Contest Rating"
   />
