@@ -90,16 +90,18 @@
     alt="LeetCode Stats Heatmap"
   />
 </p>
-
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=03E3B3&center=true&vCenter=true&width=1000&duration=6000&lines=%7C+CodeForces+Stats+%7C&height=40" alt="Typing Animation" />
-
+-->
+<!--
 <p align="Center">
   <img
     src="https://codeforces-stats-vlx.vercel.app/api/graph?username=zuhaib_k&theme=dark"
     width="45%"
     alt="CodeForces Contest Rating"
   />
-</p>
+</p> 
+-->
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
