@@ -84,11 +84,12 @@
     width="45%"
     alt="LeetCode Contest Rating"
   />
+  <!--
   <img
     src="https://leetcard.jacoblin.cool/m_zuhaib-kh?theme=dark&font=Oxygen&ext=heatmap"
     width="45%"
     alt="LeetCode Stats Heatmap"
-  />
+  />-->
 </p>
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=03E3B3&center=true&vCenter=true&width=1000&duration=6000&lines=%7C+CodeForces+Stats+%7C&height=40" alt="Typing Animation" />
