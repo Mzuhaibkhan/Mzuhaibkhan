@@ -7,7 +7,7 @@
   alt="Typing Animation"
 />
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&duration=6000&lines=Frontend+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
+  src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&letterSpacing=6px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&duration=6000&lines=Full-Stack+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
   alt="Typing Animation"
 />
 
