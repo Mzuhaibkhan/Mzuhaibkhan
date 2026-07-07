@@ -19,7 +19,7 @@
   <tr>
   🧠 About Me<br>
 
-  - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**<br>
+  - 🚀 Experience in building web apps using **React, NEXT.js, Typescript, Tailwind and Flask**<br>
   - 🌱 Learning **AI/ML and Data Structures**<br>
   - 📫 Reach me: [khanzuhaib966@gmail.com](mailto:khanzuhaib966@gmail.com)<br>
 
