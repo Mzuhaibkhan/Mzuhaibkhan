@@ -184,9 +184,9 @@ status: Open for software engineering, full-stack & AI/ML opportunities
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://u8views.com/github/Mzuhaibkhan">
     <img src="https://u8views.com/api/v1/github/profiles/150189329/views/day-week-month-total-count.svg">
   </a>
   
-</p> -->
+
